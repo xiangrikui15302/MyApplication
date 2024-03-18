@@ -1,0 +1,12 @@
+{
+  "name": "com.yuzhaopan.myapplication",
+  "version": "1.0.0",
+  "description": "my test application               a",
+  "main": "index.ets",
+  "author": "yuzhaopan",
+  "license": "ISC",
+  "dependencies": {
+    "@ohos/axios": "^2.2.0"
+  },
+  "devDependencies": {}
+}

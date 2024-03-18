@@ -1,0 +1,14 @@
+{
+  "src": [
+    "pages/ImageModule",
+    "pages/Index",
+    "pages/StateManager",
+    "pages/AnimationPage",
+    "pages/LifeCirclePage",
+    "pages/LifeCirclePage2",
+    "pages/DocumentListPage",
+    "pages/DocumentPage",
+    "pages/NetworkPage",
+    "pages/NotificationPage"
+  ]
+}
